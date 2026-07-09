@@ -1,0 +1,31 @@
+
+div{
+    height: 100px;
+    width: 150px;
+    background-color: royalblue;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-image: url(https://www.shutterstock.com/image-photo/ing-lion-cub-wildlife-animals-600nw-2597617703.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2bAHrfRO_j2RedbF4oyNhoXEEGjQ_Rauopv-Tm_I5A&s=10);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjkvuyizjUjHXQiIJqgRi5pKYmIhM9_Kp9Rq2XsAgqzA&s=10);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box4{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT88AudJ-OEKeTIxS_UYMfFyA9e4UXFL8aj8FK1wwW78w&s=10);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
